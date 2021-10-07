@@ -1,0 +1,7 @@
+﻿  Labn1.cpp
+  Создание кода
+  1 of 7 functions (14.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+D:\C++\ВУЗ\Основы программирования\Лаба 1\Labn1\Labn1.cpp(6): error C4700: использована неинициализированная локальная переменная "d"
+LINK : fatal error LNK1257: не удалось создать код
